@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AllibilliApplication {
+public class AlliBilliApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AllibilliApplication.class, args);
+		SpringApplication.run(AlliBilliApplication.class, args);
 	}
 }
